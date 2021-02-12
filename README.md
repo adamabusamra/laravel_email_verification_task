@@ -13,7 +13,7 @@ Its a simple Login/Register form, and when the user registers a verification ema
 5. Run **"php artisan migrate"**
 
 # My local enviroment details:
-- Laravel Framework 5.8.38
+- Laravel Framework: Version "5.8.38"
 - OS: Windows 10
-- PHP: PHP 7.4.12, Zend Engine v3.4.0
+- PHP: Version "7.4.12", Zend Engine v3.4.0
 - Database: MySQL, 10.4.14-MariaDB
