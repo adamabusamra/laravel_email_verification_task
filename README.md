@@ -1,5 +1,3 @@
-![image](https://user-images.githubusercontent.com/71829303/109071282-33555a80-76fc-11eb-9e0a-2def093e29f7.png)
-
 # laravel_email_verification_task
 In this project I implement the Laravel email Verification functionality
 
